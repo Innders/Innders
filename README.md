@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Innders
+- 👀 I’m interested in design and front end web development and UI.
+- 🌱 I’m currently learning next js and always more CSS.
+- 💞️ I’m looking to collaborate on small hobby projects that are different and exciting!
+- 📫 Take a look at my design page on instagram crefft.design and drop me a message.
